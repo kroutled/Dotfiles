@@ -1,13 +1,13 @@
-# Arch-dotfiles
+# Dotfiles
 
 ## Installation 
 
 ## Dependancies
 
 ## Components
-    OS : Arch Linux
-    WM : Hyprland
+    OS : POPOS! Linux
+    WM : BSPWM
     Terminal : Alacritty
     Shell : Zsh
-    Panel : 
-    Compositor : 
+    Panel : Polybar
+    Compositor : Picom
