@@ -5,7 +5,7 @@
 ## Dependancies
 
 ## Components
-    OS : POPOS! Linux
+    OS : Arch Linux
     WM : BSPWM
     Terminal : Alacritty
     Shell : Zsh
